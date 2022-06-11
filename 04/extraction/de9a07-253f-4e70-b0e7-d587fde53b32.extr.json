@@ -1,0 +1,43 @@
+{
+    "beam_diameter": "3.0",
+    "cleanup_duration": 60.0,
+    "commit": "178619db36e09fa300f0f72760114a9d36f04079",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 45.0,
+    "extract_units": "watts",
+    "extract_value": 0.8,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0.0,
+    "load_holder": "10-hole",
+    "load_name": "D0118",
+    "measured_response": "E0rFTgAAAACA2lE+AAD6RKYQDUAAAPpEtIOGQAAA+kSGh8ZAAAD6RLpEA0EAAPpEblsjQQAA+kTtV0NBAAD6RFhqY0EAAPpEPsKBQQAA+kRCxJFBAAD6RMncoUEAAPpEYOCxQQAA+kQ338FBAAD6RL3r0UEAAPpEZ/jhQQAA+kSODvJBAAD6RGcGAUIAAPpEmg8JQgAA+kS8DhFCAAD6RBoRGUIAAPpEJRAhQgAA+kQvDylCAAD6RMoPMUIAAPpEfRA5QgAA+kShE0FCAAD6ROYXSUIAAPpExB1RQgAA+kSgIFlCAAD6RPohYUIAAPpEIiVpQgAA+kTaJ3FCAAD6REgyeUIAAPpErZiAQgAA+kRioIRCAAD6RKqhiEIAAPpEa6GMQgAA+kTXoZBCAAD6RFuhlEIAAPpEDqSYQgAA+kSOqJxCAAD6RKqqoEIAAPpEfLCkQgAA+kQesahCAAD6RCSyrEIAAPpEXLWwQgAA+kQLtbRCAAD6RFm3uEIAAPpECr28QgAA+kTovsBCAAD6RAzDxEIAAPpEBcbIQgAA+kS9x8xCAAD6RJTM0EIAAPpEis3UQgAA+kQw0dhCAAD6RH7U3EIAAPpE+tbgQgAA+kTv2ORCAAD6RHvY6EIAAPpEIdjsQgAA+kR02/BCAAD6RIvb9EIAAPpEHNv4QgAA+kRx3fxCAAD6RD5vAEMAAPpEl3ACQwAA+kRKcQRDAAD6RLhyBkMAAPpEhnIIQwAA+kRLcgpDAAD6RA==",
+    "pattern": "9and10hole_square.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 8,
+            "x": null,
+            "y": null,
+            "z": null
+        },
+        {
+            "is_degas": false,
+            "position": 9,
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 10.0,
+    "ramp_rate": 0.0,
+    "requested_output": "E0rFTgAAAACA2lE+CGCYQaYQDUAAAAAAtIOGQAAAAACGh8ZAAAAAALpEA0EAAAAAblsjQQAAAADtV0NBecGIQVhqY0Gsb4pBPsKBQYsbjEFCxJFBJMWNQcncoUGGbI9BYOCxQWg/kEE338FBaD+QQb3r0UFoP5BBZ/jhQWg/kEGODvJBaD+QQWcGAUJoP5BBmg8JQmg/kEG8DhFCaD+QQRoRGUJoP5BBJRAhQmg/kEEvDylCaD+QQcoPMUJoP5BBfRA5Qmg/kEGhE0FCaD+QQeYXSUJoP5BBxB1RQmg/kEGgIFlCaD+QQfohYUJoP5BBIiVpQmg/kEHaJ3FCaD+QQUgyeUJoP5BBrZiAQmg/kEFioIRCaD+QQaqhiEJoP5BBa6GMQmg/kEHXoZBCaD+QQVuhlEJoP5BBDqSYQmg/kEGOqJxCaD+QQaqqoEJoP5BBfLCkQj8tiUEesahC29qKQSSyrEInhoxBXLWwQjEvjkELtbRCCNaPQVm3uEJoP5BBCr28Qmg/kEHovsBCaD+QQQzDxEJoP5BBBcbIQmg/kEG9x8xCaD+QQZTM0EJoP5BBis3UQmg/kEEw0dhCaD+QQX7U3EJoP5BB+tbgQmg/kEHv2ORCaD+QQXvY6EJoP5BBIdjsQmg/kEF02/BCaD+QQYvb9EJoP5BBHNv4Qmg/kEFx3fxCaD+QQT5vAENoP5BBl3ACQ2g/kEFKcQRDaD+QQbhyBkNoP5BBhnIIQ2g/kEFLcgpDaD+QQQ==",
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 0.0
+}
