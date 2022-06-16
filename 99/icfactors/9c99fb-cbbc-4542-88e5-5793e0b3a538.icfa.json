@@ -6,10 +6,63 @@
         "value": 1.0
     },
     "H1": {
-        "error": 1e-20,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.000265050307801633,
+        "fit": "Weighted Mean",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "c-03-F-1477",
+                "uuid": "d8455697-5ebd-4e58-b22a-eb112a2f93b3"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-F-1478",
+                "uuid": "529f8929-6f63-4b82-8cf3-25bd6de7d784"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-F-1479",
+                "uuid": "84a8fe6b-6b03-4be4-ae0a-1a8d53dbcff4"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-F-1480",
+                "uuid": "fe79b56d-0e4f-4c16-9f58-4d2a25743683"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-F-1481",
+                "uuid": "60dbb6cc-e1d7-44ea-83fe-a35a1fba8289"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-F-1482",
+                "uuid": "62a64db9-9265-4ca8-aba7-e947e687b76f"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-F-1483",
+                "uuid": "aca25917-4f99-4a55-9cd7-abeb03b01e04"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-F-1484",
+                "uuid": "0d4b71ee-8210-4614-a1bf-b75571171a96"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-F-1485",
+                "uuid": "8a834ab7-494b-4aa3-8977-ce301fb9bc30"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-F-1486",
+                "uuid": "77616726-b3ae-46be-80be-739ce3676b7b"
+            }
+        ],
+        "reviewed": true,
+        "standard_ratio": 6.600975,
+        "value": 1.0000364488140316
     },
     "H2": {
         "error": 1e-20,
