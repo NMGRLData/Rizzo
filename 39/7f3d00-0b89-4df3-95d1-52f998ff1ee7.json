@@ -1,0 +1,162 @@
+{
+    "acquisition_software": "pychron 20.1.1",
+    "aliquot": 2,
+    "analysis_type": "unknown",
+    "analyst_name": "MHeizler",
+    "arar_mapping": {
+        "Ar36": "Ar36",
+        "Ar37": "Ar37",
+        "Ar38": "Ar38",
+        "Ar39": "Ar39",
+        "Ar40": "Ar40"
+    },
+    "collection_version": "1.0:2.1",
+    "comment": "D:3 - Gms, 100.4 mg",
+    "conditionals": [
+        {
+            "analysis_types": [],
+            "frequency": 10,
+            "hash_id": 1290363928965812267,
+            "level": 10,
+            "location": "setupfiles/spectrometer/default_conditionals.yaml",
+            "ntrips": 1,
+            "start_count": 5,
+            "teststr": "L2(CDD).deflection==3250"
+        }
+    ],
+    "data_collection_commit": "83ab1a9987b4e9973d8148b797b740a0fa18afd2",
+    "data_reduction_software": "pychron 20.1.1",
+    "detectors": {
+        "AX": {
+            "deflection": 0.0,
+            "gain": 0.01185
+        },
+        "H1": {
+            "deflection": 0.0,
+            "gain": 0.105198
+        },
+        "H2": {
+            "deflection": 0.0,
+            "gain": 1.0
+        },
+        "L1": {
+            "deflection": 0.0,
+            "gain": 0.9831
+        },
+        "L2(CDD)": {
+            "deflection": 0.0,
+            "gain": 0.0
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [
+            {
+                "device": "EnvironmentalMonitor",
+                "name": "Lab Hum.",
+                "pub_date": "2022-06-22T01:06:14",
+                "title": "iServer Hum.",
+                "value": 54.6
+            }
+        ],
+        "lab_pneumatics": [
+            {
+                "device": "MicroBoneGaugeController",
+                "name": "JanDecabinPressure",
+                "pub_date": "2022-06-22T04:09:59",
+                "title": "Jan Decabin",
+                "value": 18.0
+            }
+        ],
+        "lab_temperatures": [
+            {
+                "device": "EnvironmentalMonitor",
+                "name": "Lab Temp.",
+                "pub_date": "2022-06-21T21:28:50",
+                "title": "iServer Temp.",
+                "value": 71.4
+            },
+            {
+                "device": "Chiller",
+                "name": "Coolant Temp.",
+                "pub_date": "2022-06-22T05:00:05",
+                "title": "Coolant",
+                "value": 16.0
+            }
+        ]
+    },
+    "experiment_queue_name": "CurrentExperiment",
+    "experiment_type": "Ar/Ar",
+    "extraction": "felix_diode.py",
+    "grainsize": "60-100 mesh",
+    "hops": "",
+    "identifier": "70148",
+    "increment": 4,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "NM-325",
+    "irradiation_level": "D",
+    "irradiation_position": 3,
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)",
+            "name": "Ar36",
+            "serial_id": "00000",
+            "units": "fA"
+        },
+        "Ar37": {
+            "detector": "L1",
+            "name": "Ar37",
+            "serial_id": "00000",
+            "units": "fA"
+        },
+        "Ar38": {
+            "detector": "AX",
+            "name": "Ar38",
+            "serial_id": "00000",
+            "units": "fA"
+        },
+        "Ar39": {
+            "detector": "H1",
+            "name": "Ar39",
+            "serial_id": "00000",
+            "units": "fA"
+        },
+        "Ar40": {
+            "detector": "H2",
+            "name": "Ar40",
+            "serial_id": "00000",
+            "units": "fA"
+        }
+    },
+    "laboratory": "",
+    "latitude": null,
+    "lithology": null,
+    "lithology_class": null,
+    "lithology_group": null,
+    "lithology_type": null,
+    "longitude": null,
+    "mass_spectrometer": "Felix",
+    "material": "Groundmass",
+    "measurement": "felix_analysis340_60_no_center.py",
+    "meta_commit": "9cb926a6e345cdf2916d721b9e60f61cb8b628b4",
+    "note": null,
+    "post_equilibration": "felix_pump_extraction_line.py",
+    "post_measurement": "felix_pump_ms.py",
+    "principal_investigator": "Rizzo",
+    "project": "Rizzo",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Rizzo",
+    "rlocation": "",
+    "sample": "Rizzo-8a",
+    "source": {
+        "emission": 799.487,
+        "trap": 197.923
+    },
+    "spec_sha": "5130edfe4645fd85e96d41e30d76fd4355a04ac8",
+    "timestamp": "2022-06-22T05:03:10.175349",
+    "tripped_conditional": null,
+    "unit": null,
+    "username": "MHeizler",
+    "uuid": "397f3d00-0b89-4df3-95d1-52f998ff1ee7",
+    "whiff_result": null
+}
