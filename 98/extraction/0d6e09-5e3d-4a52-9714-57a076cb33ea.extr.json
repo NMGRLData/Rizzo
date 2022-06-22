@@ -1,0 +1,43 @@
+{
+    "beam_diameter": "4.0",
+    "cleanup_duration": 90.0,
+    "commit": "9cb926a6e345cdf2916d721b9e60f61cb8b628b4",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 45.0,
+    "extract_units": "watts",
+    "extract_value": 2.2,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "10-hole",
+    "load_name": "D0121",
+    "measured_response": "BmXFTgAAAABA2u09AAD6RFHaB0AAAPpE6AiEQAAA+kR6GcRAAAD6RKgXAkEAAPpEvRMiQQAA+kSVMEJBAAD6RI9qYkEAAPpEHjmBQQAA+kRYN5FBAAD6RMI5oUEAAPpE+UmxQQAA+kTAVcFBAAD6REJV0UEAAPpEhFPhQQAA+kRVWvFBAAD6RPmwAEIAAPpEXrcIQgAA+kTjvRBCAAD6RNvGGEIAAPpEocggQgAA+kTpyyhCAAD6RAnRMEIAAPpE8N04QgAA+kQM3UBCAAD6RDDdSEIAAPpEXd1QQgAA+kRd31hCAAD6RPLjYEIAAPpEJONoQgAA+kTD63BCAAD6RKnteEIAAPpEaXaAQgAA+kSgdoRCAAD6RMx4iEIAAPpE636MQgAA+kSagZBCAAD6REyFlEIAAPpEXYiYQgAA+kTmiJxCAAD6RHSIoEIAAPpEPYmkQgAA+kSDiqhCAAD6RJ6NrEIAAPpE35GwQgAA+kS0k7RCAAD6RB+WuEIAAPpEUJi8QgAA+kTSl8BCAAD6RHGZxEIAAPpED53IQgAA+kSbnMxCAAD6RDmc0EIAAPpEqJ7UQgAA+kQtnthCAAD6RGKf3EIAAPpEsqLgQgAA+kRUpeRCAAD6RA==",
+    "pattern": "9and10hole_square.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 1,
+            "x": -7.62,
+            "y": 7.62,
+            "z": 13.0
+        },
+        {
+            "is_degas": false,
+            "position": 2,
+            "x": -7.62,
+            "y": 7.62,
+            "z": 13.0
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "BmXFTgAAAABA2u0911+bQVHaB0AAAAAA6AiEQAAAAAB6GcRAAAAAAKgXAkEAAAAAvRMiQQAAAACVMEJBV1meQY9qYkFXWZ5BHjmBQVdZnkFYN5FBV1meQcI5oUFXWZ5B+UmxQVdZnkHAVcFBV1meQUJV0UFXWZ5BhFPhQVdZnkFVWvFBV1meQfmwAEJXWZ5BXrcIQldZnkHjvRBCV1meQdvGGEJXWZ5BocggQldZnkHpyyhCV1meQQnRMEJXWZ5B8N04QldZnkEM3UBCV1meQTDdSEJXWZ5BXd1QQldZnkFd31hCV1meQfLjYEJXWZ5BJONoQldZnkHD63BCAAAAAKnteEIAAAAAaXaAQgAAAACgdoRCAAAAAMx4iEIAAAAA636MQldZnkGagZBCV1meQUyFlEJXWZ5BXYiYQldZnkHmiJxCV1meQXSIoEJXWZ5BPYmkQldZnkGDiqhCV1meQZ6NrEJXWZ5B35GwQldZnkG0k7RCV1meQR+WuEJXWZ5BUJi8QldZnkHSl8BCV1meQXGZxEJXWZ5BD53IQldZnkGbnMxCV1meQTmc0EJXWZ5BqJ7UQldZnkEtnthCV1meQWKf3EJXWZ5BsqLgQldZnkFUpeRCV1meQQ==",
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "10-hole",
+    "videos": [],
+    "weight": 0
+}
