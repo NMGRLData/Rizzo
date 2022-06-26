@@ -1,0 +1,43 @@
+{
+    "beam_diameter": "4.0",
+    "cleanup_duration": 90.0,
+    "commit": "9cb926a6e345cdf2916d721b9e60f61cb8b628b4",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 45.0,
+    "extract_units": "watts",
+    "extract_value": 1.3,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "10-hole",
+    "load_name": "D0123",
+    "measured_response": "xnHFTgAAAADQWhE+AAD6ROIGCUAAAPpE3pyEQAAA+kS0ncRAAAD6RHZsAkEAAPpEt20iQQAA+kQohEJBAAD6ROeVYkEAAPpEA1iBQQAA+kQoVpFBAAD6REJVoUEAAPpE9l+xQQAA+kSbbcFBAAD6RBd80UEAAPpE9IjhQQAA+kQnh/FBAAD6RCbDAEIAAPpETcIIQgAA+kS4xRBCAAD6RArQGEIAAPpE19kgQgAA+kRZ3ihCAAD6RHzdMEIAAPpEWOQ4QgAA+kTu50BCAAD6RODqSEIAAPpEnvFQQgAA+kTV+FhCAAD6RG34YEIAAPpEa/9oQgAA+kT+AHFCAAD6RPwGeUIAAPpEEIOAQgAA+kRvhoRCAAD6ROyHiEIAAPpEuIuMQgAA+kRajJBCAAD6RHuMlEIAAPpE2o6YQgAA+kQ8kZxCAAD6RNWZoEIAAPpEm52kQgAA+kQAoKhCAAD6RC+lrEIAAPpEz6ywQgAA+kRSrLRCAAD6RLStuEIAAPpEhK68QgAA+kSirsBCAAD6RE2xxEIAAPpEIbLIQgAA+kSPtMxCAAD6RIG00EIAAPpEt7bUQgAA+kQcuNhCAAD6RGS+3EIAAPpEnr7gQgAA+kSgvuRCAAD6RMDA6EIAAPpEb8DsQgAA+kTrwfBCAAD6RCDJ9EIAAPpE0c34QgAA+kSMzfxCAAD6RNBnAEMAAPpEpWkCQwAA+kQ9bQRDAAD6RAJtBkMAAPpE",
+    "pattern": "9and10hole_square.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 8,
+            "x": -7.62,
+            "y": -7.62,
+            "z": 13.0
+        },
+        {
+            "is_degas": false,
+            "position": 9,
+            "x": 0.0,
+            "y": -7.62,
+            "z": 13.0
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 10.0,
+    "ramp_rate": 0.0,
+    "requested_output": "xnHFTgAAAADQWhE+aD+QQeIGCUAAAAAA3pyEQAAAAAC0ncRAAAAAAHZsAkEAAAAAt20iQQAAAAAohEJB6/aJQeeVYkEYroxBA1iBQVRfj0EoVpFB3QqSQUJVoUHusJRB9l+xQZ9ZlUGbbcFBn1mVQRd80UGfWZVB9IjhQZ9ZlUEnh/FBn1mVQSbDAEKfWZVBTcIIQp9ZlUG4xRBCn1mVQQrQGEKfWZVB19kgQp9ZlUFZ3ihCn1mVQXzdMEKfWZVBWOQ4Qp9ZlUHu50BCn1mVQeDqSEKfWZVBnvFQQp9ZlUHV+FhCn1mVQW34YEKfWZVBa/9oQp9ZlUH+AHFCn1mVQfwGeUKfWZVBEIOAQp9ZlUFvhoRCn1mVQeyHiEKfWZVBuIuMQgAAAABajJBCAAAAAHuMlEIAAAAA2o6YQgAAAAA8kZxCAAAAANWZoEJIpYpBm52kQvNajUEAoKhCvAqQQS+lrELitJJBz6ywQp9ZlUFSrLRCn1mVQbStuEKfWZVBhK68Qp9ZlUGirsBCn1mVQU2xxEKfWZVBIbLIQp9ZlUGPtMxCn1mVQYG00EKfWZVBt7bUQp9ZlUEcuNhCn1mVQWS+3EKfWZVBnr7gQp9ZlUGgvuRCn1mVQcDA6EKfWZVBb8DsQp9ZlUHrwfBCn1mVQSDJ9EKfWZVB0c34Qp9ZlUGMzfxCn1mVQdBnAEOfWZVBpWkCQ59ZlUE9bQRDn1mVQQJtBkOfWZVB",
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "10-hole",
+    "videos": [],
+    "weight": 0
+}
