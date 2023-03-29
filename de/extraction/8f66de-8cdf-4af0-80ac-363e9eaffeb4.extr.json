@@ -1,0 +1,38 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 45.0,
+    "commit": "416467c8055e9e7acf859bc018ad6cd01f147fa2",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 60.0,
+    "extract_units": "watts",
+    "extract_value": 2.0,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "9-hole",
+    "load_name": "D0155",
+    "measured_response": "vEjITgAAAADQmXk+AAD6RHEAEEAAAPpEniWIQAAA+kRolMhAAAD6RFhQBEEAAPpEQpgkQQAA+kRbpURBAAD6RGK4ZEEAAPpE+GiCQQAA+kQhapJBAAD6RLqBokEAAPpEKYCyQQAA+kQ1fsJBAAD6ROKO0kEAAPpEPp3iQQAA+kS4ovJBAAD6RGZYAUIAAPpEKFwJQgAA+kRzXxFCAAD6RGVhGUIAAPpEY2MhQgAA+kQaaSlCAAD6RDhpMUIAAPpET3I5QgAA+kRZcUFCAAD6RGJ1SUIAAPpEAnxRQgAA+kQle1lCAAD6RCyCYUIAAPpEM4JpQgAA+kQ6gXFCAAD6RECAeUIAAPpEpL+AQgAA+kQnwoRCAAD6RA==",
+    "pattern": "9and10hole_square.lp",
+    "pipette_counts": [],
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 4,
+            "x": -7.62,
+            "y": 0.0,
+            "z": 15.0
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "vEjITgAAAADQmXk+pF6XQXEAEEAAAAAAniWIQAAAAABolMhAAAAAAFhQBEFcXpxBQpgkQVxenEFbpURBXF6cQWK4ZEFcXpxB+GiCQVxenEEhapJBXF6cQbqBokFcXpxBKYCyQVxenEE1fsJBXF6cQeKO0kFcXpxBPp3iQVxenEG4ovJBXF6cQWZYAUJcXpxBKFwJQlxenEFzXxFCXF6cQWVhGUJcXpxBY2MhQlxenEEaaSlCXF6cQThpMUJcXpxBT3I5QlxenEFZcUFCXF6cQWJ1SUJcXpxBAnxRQlxenEEle1lCXF6cQSyCYUJcXpxBM4JpQlxenEE6gXFCXF6cQUCAeUJcXpxBpL+AQlxenEEnwoRCXF6cQQ==",
+    "setpoint_stream": null,
+    "snapshots": [],
+    "timestamp": "2023-03-29T09:51:40.916054",
+    "tray": "9-hole",
+    "videos": [],
+    "weight": 36.57
+}
