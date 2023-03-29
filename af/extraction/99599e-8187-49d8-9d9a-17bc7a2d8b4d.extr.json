@@ -1,0 +1,38 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 45.0,
+    "commit": "416467c8055e9e7acf859bc018ad6cd01f147fa2",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 60.0,
+    "extract_units": "watts",
+    "extract_value": 1.5,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "9-hole",
+    "load_name": "D0155",
+    "measured_response": "MknITgAAAAAQp2g+AAD6RJV7DkAAAPpE6DWHQAAA+kRcbsdAAAD6RLK0A0EAAPpEbbQjQQAA+kSKsENBAAD6RNDBY0EAAPpEcN+BQQAA+kTo3pFBAAD6RP3moUEAAPpEqPKxQQAA+kTg+sFBAAD6RMj70UEAAPpErfrhQQAA+kQQB/JBAAD6RH0JAUIAAPpEHxAJQgAA+kQHEBFCAAD6RCsPGUIAAPpE6g8hQgAA+kTkDylCAAD6RPcPMUIAAPpELQ85QgAA+kSFFUFCAAD6RJwjSUIAAPpEECpRQgAA+kT6MFlCAAD6RBM4YUIAAPpEOj9pQgAA+kTHSnFCAAD6ROpJeUIAAPpECqiAQgAA+kTKqoRCAAD6RKuviEIAAPpEKrGMQgAA+kQdspBCAAD6RDC0lEIAAPpE5LaYQgAA+kROvJxCAAD6RNu8oEIAAPpEYbykQgAA+kS7xKhCAAD6RG3JrEIAAPpE7MmwQgAA+kRzy7RCAAD6ROPNuEIAAPpEetG8QgAA+kQr0sBCAAD6RMXRxEIAAPpE1dLIQgAA+kRf0sxCAAD6RHrT0EIAAPpE/9LUQgAA+kRj1dhCAAD6RETV3EIAAPpE",
+    "pattern": "9and10hole_square.lp",
+    "pipette_counts": [],
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 9,
+            "x": 7.62,
+            "y": -7.62,
+            "z": 15.0
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "MknITgAAAAAQp2g+TEySQZV7DkAAAAAA6DWHQAAAAABcbsdAAAAAALK0A0GkXpdBbbQjQaRel0GKsENBpF6XQdDBY0GkXpdBcN+BQaRel0Ho3pFBpF6XQf3moUGkXpdBqPKxQaRel0Hg+sFBpF6XQcj70UGkXpdBrfrhQaRel0EQB/JBpF6XQX0JAUKkXpdBHxAJQqRel0EHEBFCpF6XQSsPGUKkXpdB6g8hQqRel0HkDylCpF6XQfcPMUKkXpdBLQ85QqRel0GFFUFCpF6XQZwjSUKkXpdBECpRQqRel0H6MFlCpF6XQRM4YUKkXpdBOj9pQqRel0HHSnFCpF6XQepJeUKkXpdBCqiAQqRel0HKqoRCpF6XQauviEKkXpdBKrGMQqRel0EdspBCpF6XQTC0lEKkXpdB5LaYQqRel0FOvJxCpF6XQdu8oEKkXpdBYbykQqRel0G7xKhCpF6XQW3JrEKkXpdB7MmwQqRel0Fzy7RCpF6XQePNuEKkXpdBetG8QqRel0Er0sBCpF6XQcXRxEKkXpdB1dLIQqRel0Ff0sxCpF6XQXrT0EKkXpdB/9LUQqRel0Fj1dhCpF6XQUTV3EKkXpdB",
+    "setpoint_stream": null,
+    "snapshots": [],
+    "timestamp": "2023-03-29T14:04:07.272503",
+    "tray": "9-hole",
+    "videos": [],
+    "weight": 38.58
+}
