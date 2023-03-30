@@ -1,58 +1,104 @@
 {
     "Ar36": {
-        "error": 0.001080584866733056,
+        "error": 0.0011922085890522277,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 3,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
         "fit": "linear",
-        "value": 0.8019398633470389
+        "fn": 400,
+        "include_baseline_error": true,
+        "n": 400,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.8014355545066807
     },
     "Ar37": {
-        "error": 0.005336789536504206,
+        "error": 0.005882701179740829,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 3,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
         "fit": "linear",
-        "value": 4.0571124034328
+        "fn": 399,
+        "include_baseline_error": true,
+        "n": 400,
+        "outlier_excluded": [
+            266
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 4.058831545032495
     },
     "Ar38": {
-        "error": 0.0025947905135918024,
+        "error": 0.002925550836011322,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 3,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
         "fit": "linear",
-        "value": 0.242566806022181
+        "fn": 399,
+        "include_baseline_error": true,
+        "n": 400,
+        "outlier_excluded": [
+            169
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.24413200802865326
     },
     "Ar39": {
-        "error": 0.005819236630872845,
+        "error": 0.0062431817174124875,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 3,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
         "fit": "linear",
-        "value": 6.460558646116606
+        "fn": 400,
+        "include_baseline_error": true,
+        "n": 400,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 6.462563489663623
     },
     "Ar40": {
-        "error": 0.026912810129604118,
+        "error": 0.026912679860115207,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 3
+            "std_devs": 3,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
         "fit": "parabolic",
-        "value": 241.4426320527702
+        "fn": 399,
+        "include_baseline_error": true,
+        "n": 400,
+        "outlier_excluded": [
+            275
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 241.44263201115342
     },
     "Ar41": {
         "error": 1.3216256000854928e-05,
